@@ -28,7 +28,6 @@ Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. At
 
 <img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif">
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <br>
