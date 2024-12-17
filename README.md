@@ -14,7 +14,7 @@ Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. At
             src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF"
         />
     </a>
-    <a href="www.linkedin.com/in/larissa-moraes-728381342" target="_blank">
+    <a href="https://www.linkedin.com/in/larissa-moraes-728381342/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn"
