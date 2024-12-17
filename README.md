@@ -26,8 +26,6 @@ Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. At
 
 ---
 
-<img align="right" alt="" height="190px" src="https://imgur.com/a/q7hop2G">
-
 ### 🤖 Linguagens e Tecnologias
 
 <br>
@@ -53,8 +51,8 @@ Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. At
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/5463ab836fca8dcab995974ef10f372fc47360658e378f6ac5c1252a721cddf3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2d776f72646d61726b2e737667" 
+    style="padding-right: 10px;"
+src="https://camo.githubusercontent.com/5463ab836fca8dcab995974ef10f372fc47360658e378f6ac5c1252a721cddf3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2d776f72646d61726b2e737667" 
 />
 <img 
     align="left" 
@@ -73,9 +71,6 @@ Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-<br>
-<br>
-<br>
 <br>
 
 ---
