@@ -2,7 +2,7 @@
 
 
 
-**`Desenvolvedora BackEnd`**
+**`Desenvolvedora FullStack!`**
 
 Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na UNA. Sou apaixonada por tecnologia, portanto comecei meus estudos em programação aos 16 anos e hoje me dedico aos conceitos de Data Science, principalmente em Python, com foco em aprendizado contínuo e crescimento na área. ".
 
