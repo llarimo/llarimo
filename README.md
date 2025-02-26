@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FullStack!`**
 
-Me chamo Larissa Moraes Ribeiro, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na UNA. Sou apaixonada por tecnologia, portanto comecei meus estudos em programação aos 16 anos e hoje me dedico aos conceitos de Data Science, principalmente em Python, com foco em aprendizado contínuo e crescimento na área. ".
+Me chamo Larissa Moraes Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação, terceiro período e sou monitora na Infinity School. Sou apaixonada por tecnologia, portanto comecei meus estudos em programação aos 17 anos e hoje me dedico aos conceitos de Data Science, principalmente em Python, com foco em aprendizado contínuo e crescimento na área. ".
 
 <p align="left">
     <a href="mailto:llarimoes@gmail.com">
@@ -69,6 +69,22 @@ src="https://camo.githubusercontent.com/5463ab836fca8dcab995974ef10f372fc4736065
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+/>
+<img
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
 />
 
 <br>
