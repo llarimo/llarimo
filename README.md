@@ -31,7 +31,7 @@
   </div>
 </div>
 
-<hr>
+
 
 <h3>🧲 Connect me :</h3>
 <div align="center">
